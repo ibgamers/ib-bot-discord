@@ -1,0 +1,17 @@
+{
+  "name": "ibbot",
+  "version": "1.0.0",
+  "description": "Bot de la comunidad Inglorious Basterds",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "discordie": "^0.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "IB Developers",
+  "license": "ISC",
+  "keywords": []
+}
